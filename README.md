@@ -83,7 +83,7 @@ Add the package to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "[https://github.com/yourusername/swift-streamable-actors](https://github.com/malhal/swift-streamable-actors)", from: "1.0.0")
+    .package(url: "[https://github.com/malhal/swift-streamable-actors](https://github.com/malhal/swift-streamable-actors)", from: "1.0.0")
 ]
 
 ```
